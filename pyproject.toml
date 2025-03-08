@@ -1,7 +1,7 @@
 [project]
 name = "numpy-neural-network"
 version = "0.1.0"
-description = "Add your description here"
+description = "Study Project of a Neural Network using NumPy"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
